@@ -1,0 +1,3 @@
+# a .gitignore file
+# a rule to never push ~
+*~
